@@ -7,7 +7,7 @@ Original framework: [CompVis/stable-diffusion](https://github.com/CompVis/stable
 
 ---
 
-## 📊 Training Process
+## Training Process
 
 The training process consists of two main stages:
 
@@ -27,7 +27,7 @@ Detailed information about input file paths and parameters can be found in the c
 
 ---
 
-## 🚀 Inference Stage
+## Inference Stage
 
 Examples for both gene to image and image to image modes are provided as shell scripts: 
 `MorphDiff/scripts/gene2img.sh` and `MorphDiff/scripts/img2img.sh`.
